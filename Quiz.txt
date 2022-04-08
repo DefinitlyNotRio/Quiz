@@ -1,0 +1,17 @@
+DO NOT EDIT THIS TOP SECTION!
+Welcome to the quiz type your questions using the format below
+How many questions are there? e.g. 1
+Question e.g. What is bigger 3 or 4
+How many answers are there e.g. 2 (Make them single line answers)
+Which answer is correct e.g. 1
+2
+Should pineapple be on pizza?
+2
+yes
+no
+2
+Am I the best?
+2
+yes
+no
+1
