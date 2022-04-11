@@ -5,13 +5,8 @@ Question e.g. What is bigger 3 or 4
 How many answers are there e.g. 2 (Make them single line answers)
 Which answer is correct e.g. 1
 2
-Should pineapple be on pizza?
+What is bigger 
 2
-yes
-no
+3
+4
 2
-Am I the best?
-2
-yes
-no
-1

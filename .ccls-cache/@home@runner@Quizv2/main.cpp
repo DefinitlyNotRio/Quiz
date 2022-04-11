@@ -27,13 +27,26 @@ int main() {
   std::fstream test("Quiz.txt");
   using namespace std;
   Gotaline(test, 7);
-  int questioncount;
-  test >> questioncount;
-  std::cout << questioncount;
-  Gotaline(test, 8);
-  string questions1;
-  test >> questions1;
-  std::cout << "\n" << questions1;
+  int questionCount;
+  test >> questionCount;
+  std::cout << questionCount;
+  
+  string question;
+  int questionCountLine = 8;
+  int printAnswers;
+  int answerCount = questionCountLine+2;
+  
+  for (int a = 0; a < questionCount; a++) {
+  Gotaline(test, questionCountLine);  
+  test >> question;
+  std::cout << "\n" << question;
+  Gotaline(test, answerCount);
+  test >> answerCount;
+  std::cout << answerCount << "\ntest";
+    while (printAnswers < answerCount) {
+      break;
+    }
   std::cin.get();
+  }
   return 0;
 }
