@@ -5,8 +5,8 @@ Question e.g. What is bigger 3 or 4
 How many answers are there e.g. 2 (Make them single line answers)
 Which answer is correct e.g. 1
 2
-What is bigger 
+What is better 
 2
-3
-4
+A - Pineapple on pizza
+B - Pinapple not on pizza
 2
