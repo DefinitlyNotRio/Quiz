@@ -24,6 +24,7 @@ int main() {
   std::ofstream quiz("Quiz.txt");
   quiz << beginning; 
   }
+  
   std::fstream test("Quiz.txt");
   using namespace std;
   Gotaline(test, 7);
@@ -32,9 +33,12 @@ int main() {
   std::cout << questionCount;
   
   string question;
-  int questionCountLine = 8;
-  int printAnswers;
+  int questionCountLine = 7;
+  int printAnswers = 0;
   int answerCount = questionCountLine+2;
+  int answerLines = 0; 
+
+  int currentLineNumber = questionCountLine+totalAnswerCount+3;
   
   for (int a = 0; a < questionCount; a++) {
   Gotaline(test, questionCountLine);  
@@ -42,9 +46,10 @@ int main() {
   std::cout << "\n" << question;
   Gotaline(test, answerCount);
   test >> answerCount;
-  std::cout << answerCount << "\ntest";
+  std::cout << "\nb" << answerCount << "\ntest";
     while (printAnswers < answerCount) {
-      break;
+      std::cout << "\nworm test";
+      printAnswers++;
     }
   std::cin.get();
   }
