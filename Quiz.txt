@@ -4,9 +4,24 @@ How many questions are there? e.g. 1
 Question e.g. What is bigger 3 or 4
 How many answers are there e.g. 2 (Make them single line answers)
 Which answer is correct e.g. 1
-2
+3
 What is better 
+5
+1 - Pineapple on pizza
+2 f43
+3 asdf
+4 fasdeee
+5 - Pinappl e not on pizza
+4
+Which
+4
+tes
+est
+st
+t
+3
+How
 2
-A - Pineapple on pizza
-B - Pinapple not on pizza
-2
+beans
+balls
+1
