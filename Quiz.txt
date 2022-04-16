@@ -1,9 +1,9 @@
 DO NOT EDIT THIS TOP SECTION!
-Welcome to the quiz type your questions using the format below
-How many questions are there? e.g. 1
-Question e.g. What is bigger 3 or 4
-How many answers are there e.g. 2 (Make them single line answers)
-Which answer is correct e.g. 1
+Welcome to the quiz type your questions using the format below
+How many questions are there? e.g. 1
+Question e.g. What is bigger 3 or 4
+How many answers are there e.g. 2 (Make them single line answers)
+Which answer is correct e.g. 1
 16
 What is the Eighth letter in the alphabet?
 4
@@ -12,14 +12,14 @@ f
 k
 h
 4
-What is the rarest M&M color?
+What is the rarest M&M color?
 4
 Red
 Green
 Blue
 Brown
 4
-Which African country was formerly known as Abyssinia?
+Which African country was formerly known as Abyssinia?
 8
 Algeria
 Nigeria
@@ -30,7 +30,7 @@ Ethiopia
 Morocco
 Libya
 6
-Which country consumes the most chocolate per capita?
+Which country consumes the most chocolate per capita?
 6
 Switzerland
 USA
@@ -39,23 +39,23 @@ Canada
 Morocco
 England
 1
-I am the best.
+I am the best.
 2
 True
 False
 1
-What is better?
+What is better?
 2
-Pineapple on pizza
-Pineapple not on pizza
+Pineapple on pizza
+Pineapple not on pizza
 2
-What is the world’s biggest island?
+What is the world’s biggest island?
 3
 Antarctica
 Australia
 Greenland
 3
-Which of these holds the least digital data?
+Which of these holds the least digital data?
 5
 Kilobit
 Byte
@@ -63,61 +63,61 @@ Pebibit
 Petabyte
 Gigabyte
 2
-Which of these holds the most digital data?
+Which of these holds the most digital data?
 4
 Kilobit
 Pebibit
 Petabyte
 Gigabyte
 3
-How many eyes does a bee have?
+How many eyes does a bee have?
 3
 Five
-Two Thousand Eight hundred
-One Hundred and Thirty
+Two Thousand Eight hundred
+One Hundred and Thirty
 1
-Which mammal has no vocal cords?
+Which mammal has no vocal cords?
 4
 Alligator
 Giraffe
 Rat
 Whale
 2
-Power outages in the US are mostly caused by what?
+Power outages in the US are mostly caused by what?
 5
 Hurricanes
 Earthquakes
 Bob
 Squirrels
-The immortal snail hunting me
+The immortal snail hunting me
 4
-What is the painting ‘La Gioconda’ more usually known as?
+What is the painting ‘La Gioconda’ more usually known as?
 5
-Starry Night
-Starry Knight
-Vincent Van Gogh
-Mona Lisa
-Leonardo Dicaprio
+Starry Night
+Starry Knight
+Vincent Van Gogh
+Mona Lisa
+Leonardo Dicaprio
 4
-Ludwig Van Beethoven was born in 1770 in which city?
+Ludwig Van Beethoven was born in 1770 in which city?
 7
-He was born in 1771
+He was born in 1771
 Germany
 England
-New York
+New York
 London
 Paris
-Berlin 
+Berlin 
 7
-When did the Cold War end?
+When did the Cold War end?
 5
 1987
 1980
 1962
 1879
-None of the above
+None of the above
 1
-In medieval England, what was used as currency, specifically for rental agreements?
+In medieval England, what was used as currency, specifically for rental agreements?
 5
 Pounds
 Dollars

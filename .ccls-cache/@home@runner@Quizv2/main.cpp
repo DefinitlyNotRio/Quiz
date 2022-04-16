@@ -22,8 +22,11 @@ int main() {
     std::ofstream quiz("Quiz.txt");
     quiz << "DO NOT EDIT THIS TOP SECTION!\nWelcome to the quiz type your questions using the format below\nHow many questions are there? e.g. 1\nQuestion e.g. What is bigger 3 or 4\nHow many answers are there e.g. 2 (Make them single line answers)\nWhich answer is correct e.g. 1"; 
   }
-
-  std::cout << "Welcome to the quiz. Answer the questions with the answer number. Good luck!\n";
+  //Asking for the users name
+  std::string name;
+  std::cout << "What is your name?\n";
+  std::cin >> name;
+  std::cout << "Welcome to the quiz " << name << ", Answer the questions with the answer number. Good luck!\n";
   //Initiating all the variables to be used in the quiz loop.
   bool Answered = false;
   std::string answer;
@@ -92,6 +95,6 @@ int main() {
     printAnswers = 0;
     Answered = false;
   }
-  std::cout << "Congratulations you got " << correct << "/" << questionCount << "\n";
+  std::cout << "Congratulations " << name << ", you got " << correct << "/" << questionCount << "\n";
   return 0;
 }
